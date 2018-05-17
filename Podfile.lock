@@ -1,0 +1,15 @@
+PODS:
+  - Siren (3.2.0)
+  - SwiftRater (0.3.0)
+
+DEPENDENCIES:
+  - Siren
+  - SwiftRater
+
+SPEC CHECKSUMS:
+  Siren: 964f57553cf6a39d1bada4e403557523a213b397
+  SwiftRater: e79bc7e4d3961bade56b02b7568362a6c9ce860c
+
+PODFILE CHECKSUM: e2b7b990d00ed8f631e35f5dce75bd76dec3234d
+
+COCOAPODS: 1.4.0
